@@ -20,7 +20,7 @@ python tic_tac_toe.py
 4. If all positions are filled without a winner, the game ends in a tie.
 5. After the game ends, you can choose to play again or exit.
 
-**Board Layout**
+### Board Layout
 The board positions are numbered as follows:
 ```
  7 | 8 | 9
